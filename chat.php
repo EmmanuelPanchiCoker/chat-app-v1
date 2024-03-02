@@ -39,7 +39,7 @@ if (!isset($_SESSION['unique_id'])) {
       </form>
     </section>
   </div>
-  <!-- <script>
+  <!- <script>
     let moon = document.getElementById("night");
     let sun = document.querySelector("#day");
     moon.onclick = () => {
@@ -55,14 +55,14 @@ if (!isset($_SESSION['unique_id'])) {
         document.querySelector(".chat-area header").style.color = "#eee";
     }
 
-    // function changeTheme(theme) {
-    //   if (theme == "night") {
+     function changeTheme(theme) {
+       if (theme == "night") {
        
-    //   } else {
+      } else {
        
-    //   }
-    // }
-  </script> -->
+      }
+     }
+  </script> ->
   <script src="javascript/chat.js"></script>
 
 </body>

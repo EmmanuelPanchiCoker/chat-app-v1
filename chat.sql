@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
--- https://www.phpmyadmin.net/
+-- https://https://emmanuelpanchicoker.github.io/chat-app-v1/
 --
 -- Host: 127.0.0.1
 -- Generation Time: Aug 17, 2021 at 06:33 AM
